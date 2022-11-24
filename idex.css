@@ -17,14 +17,32 @@ body {
 .logo {
   display: flex;
   /* margin-top:25px; */
-  
-  
 }
-.main_bottom {
-    /* justify-content: space-around; */
-    /* height:auto; */
-  
-};
+h2 {
+    text-align: center;
+    letter-spacing:4px;
+}
+.service_AboutUs {
+    background-color: white;
+    
+}
+.image_AboutUs {
+    display: flex;
+    background-color:green;
+    border-radius: 100%;
+    width: 25%;
+    height: 25%;
+
+}
+.image_AboutUs img {
+    align-items: center;
+
+}
+.duc1 {
+    display: flex;
+    height: auto;
+}
+
 
 .container {
     display: flex;
